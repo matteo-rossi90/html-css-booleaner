@@ -12,6 +12,12 @@
     padding-top: 50px;
 }
 
+.image{
+    background-image: url('../img/pattern.png');
+    background-size:contain;
+    height:100px;
+}
+
 
 header{
     background-color: #43a0ff;
@@ -53,6 +59,8 @@ th{
 tr:nth-child(even){
     background-color: #b1e5f2;
 }
+
+/* proprietà testo footer */
 
 
 
