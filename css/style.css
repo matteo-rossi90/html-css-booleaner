@@ -1,0 +1,31 @@
+
+/* proprietà della pagina html */
+*{
+    margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* proprietà dell'header */
+
+.logo-size{
+    width: 150px;
+    height: auto;
+    padding-top: 50px;
+}
+
+
+header{
+    background-color: #43a0ff;
+    
+}
+
+h4 a{
+    color: #3fb5e8;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.text{
+    color: rgb(113, 112, 112)
+}
+
