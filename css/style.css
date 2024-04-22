@@ -24,6 +24,19 @@ header{
     
 }
 
+/* proprietà immagini del main */
+
+#tim-1{
+    width: 700px;
+    height: 500px;
+}
+
+#tim-2{
+    width: 650px;
+    height:500px;
+}
+
+
 /* proprietà di testi */
 
 h4 a{
